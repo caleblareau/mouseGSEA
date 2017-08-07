@@ -1,0 +1,7 @@
+load("../data/mouse_msigdb/mouse_c2_v5p2.rdata")
+load("../data/mouse_msigdb/mouse_c3_v5p2.rdata")
+load("../data/mouse_msigdb/mouse_c4_v5p2.rdata")
+load("../data/mouse_msigdb/mouse_c5_v5p2.rdata")
+load("../data/mouse_msigdb/mouse_c6_v5p2.rdata")
+load("../data/mouse_msigdb/mouse_c7_v5p2.rdata")
+load("../data/mouse_msigdb/mouse_H_v5p2.rdata")
